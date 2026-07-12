@@ -9,5 +9,5 @@ window.APP_CONFIG = {
   // Change this to your deployed backend URL, e.g. "https://watch-together-api.onrender.com"
   SERVER_URL: window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1"
     ? "http://localhost:4000"
-    : "https://YOUR-BACKEND-URL-HERE.onrender.com",
+    : "https://together-backend-14ee.onrender.com",
 };
