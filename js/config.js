@@ -9,7 +9,7 @@ window.APP_CONFIG = {
   // Change this to your deployed backend URL, e.g. "https://together-backend-14ee.onrender.com"
   SERVER_URL: window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1"
     ? "http://localhost:4000"
-    : "https://YOUR-BACKEND-URL-HERE.onrender.com",
+    : "https://together-backend-14ee.onrender.com",
 
   // URL to the HLS playlist (.m3u8) hosted in your video repo on GitHub.
   // Using raw.githubusercontent.com works without enabling GitHub Pages:
