@@ -16,5 +16,5 @@ window.APP_CONFIG = {
   //   https://raw.githubusercontent.com/<user>/<repo>/main/playlist.m3u8
   // Or, if you enabled GitHub Pages on that repo:
   //   https://<user>.github.io/<repo>/playlist.m3u8
-  MOVIE_URL: "https://github.com/mohit-pokhrel/365/main/playlist.m3u8",
+  MOVIE_URL: "https://raw.githubusercontent.com/mohit-pokhrel/365/main/playlist.m3u8",
 };
